@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="1,2">
+
+    <TableRow
+        android:layout_width="407dp"
+        android:layout_height="560dp">
+
+        <TextView
+            android:id="@+id/Employee_tv"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Employee"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/Score_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Score"
+            android:textSize="16dp" />
+    </TableRow>
+
+
+</TableLayout>

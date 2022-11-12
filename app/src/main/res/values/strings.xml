@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InMind</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="title_events">Events</string>
+    <string name="title_leaderboard">Leaderboard</string>
+    <string name="title_profile">Profile</string>
+
+
+    <string-array name="users_array">
+        <item>Moxit</item>
+        <item>Giselle</item>
+        <item>John</item>
+        <item>Selena</item>
+        <item>Jennifer</item>
+
+    </string-array>
+</resources>
